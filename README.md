@@ -95,7 +95,7 @@ parameters such as blood oxygen level (SpO2) and heart rate. The MAX30201 mod-
 ule includes an inbuilt temperature sensor which can be used to take measurements
 of the body temperature as well.
 
-![Figure 3: MAX30102 Pulse Oximeter sensor and its pin connection to Arduino Uno](MAX30102.png)
+ <img src="MAX30102.png" alt="Figure 3: MAX30102 Pulse Oximeter sensor and its pin connection to Arduino Uno" width="300" height="200" />
 
 ### 2.3 LCD Display module
 
