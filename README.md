@@ -1,7 +1,7 @@
 # Heart Sync- A Portable Vitals Monitor
 ## Contents
 
-- [1 Problem Description and Solution](#1 problem description and solution)
+- [1 Problem Description and Solution](#1-problem-description-and-solution)
    - [1.1 Problem Identification](#11-problem-identification)
    - [1.2 Proposed solution](#12-proposed-solution)
 - [2 Technical feasibility](#2-technical-feasibility)
